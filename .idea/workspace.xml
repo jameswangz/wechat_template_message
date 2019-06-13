@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e56bc29-b1f8-4605-8f07-ee1f910b05b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wechat_template_message/sender.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wechat_template_message/sender.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/wechat_template_message/version.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/wechat_template_message/version.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/wechat_template_message_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/wechat_template_message_spec.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +36,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/fixtures/configuration.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret column="144" selection-start-column="144" selection-end-column="144" />
+            <state relative-caret-position="66">
+              <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -41,20 +45,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec/wechat_template_message_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="156">
+              <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="82" selection-end-column="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="609">
+                <caret line="73" column="4" lean-forward="true" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechat_template_message.gemspec">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="308">
-                <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/version.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -63,7 +85,7 @@
         <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="242">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -71,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/template.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="660">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="30" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -81,16 +103,16 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/wechat_template_message.rb">
+        <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/sender.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="209">
+              <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -100,15 +122,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="29" selection-start-column="29" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/sender.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -150,21 +163,20 @@
         <option value="$PROJECT_DIR$/spec/yunpian_sms_spec.rb" />
         <option value="$PROJECT_DIR$/lib/yunpian_sms/batch_result.rb" />
         <option value="$PROJECT_DIR$/lib/yunpian_sms/sender.rb" />
-        <option value="$PROJECT_DIR$/lib/wechat_template_message/version.rb" />
         <option value="$PROJECT_DIR$/lib/wechat_template_message/result.rb" />
         <option value="$PROJECT_DIR$/lib/wechat_template_message.rb" />
-        <option value="$PROJECT_DIR$/spec/fixtures/configuration.yml" />
-        <option value="$PROJECT_DIR$/spec/wechat_template_message_spec.rb" />
         <option value="$PROJECT_DIR$/lib/wechat_template_message/template.rb" />
+        <option value="$PROJECT_DIR$/spec/fixtures/configuration.yml" />
         <option value="$PROJECT_DIR$/lib/wechat_template_message/sender.rb" />
+        <option value="$PROJECT_DIR$/spec/wechat_template_message_spec.rb" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/wechat_template_message/version.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-483" />
-    <option name="y" value="-1027" />
-    <option name="width" value="2157" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
     <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -236,7 +248,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="RSpec.WechatTemplateMessage templates should get all templates successfully: yunpian-sms">
+  <component name="RunManager" selected="RSpec.WechatTemplateMessage messages should send template message successfuly: yunpian-sms">
+    <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <module name="yunpian-sms" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/wechat_template_message_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="WechatTemplateMessage messages should get error response when access token is invalid" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="WechatTemplateMessage messages should send template message successfuly: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <module name="yunpian-sms" />
+      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/wechat_template_message_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="WechatTemplateMessage messages should send template message successfuly" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method v="2" />
+    </configuration>
     <configuration name="WechatTemplateMessage templates should get all templates successfully: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="yunpian-sms" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
@@ -260,39 +338,6 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="WechatTemplateMessage templates should get all templates successfully" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="yunpian-sms" />
-      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/wechat_template_message_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="WechatTemplateMessage templates should get error response when access token is invalid missing" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -336,7 +381,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="YunPianSMS messages should batch send messages successfully: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration name="WechatTemplateMessage: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <module name="yunpian-sms" />
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -355,43 +400,10 @@
         </COVERAGE_PATTERN>
       </EXTENSION>
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/yunpian_sms_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/wechat_template_message_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="YunPianSMS messages should batch send messages successfully" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <method v="2" />
-    </configuration>
-    <configuration name="YunPianSMS messages should send single message with template 2 successfully: yunpian-sms" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <module name="yunpian-sms" />
-      <predefined_log_file enabled="true" id="RUBY_RSPEC" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$MODULE_DIR$/spec/yunpian_sms_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="'**/*_spec.rb'" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="YunPianSMS messages should send single message with template 2 successfully" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="WechatTemplateMessage" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -464,11 +476,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="RSpec.WechatTemplateMessage messages should send template message successfuly: yunpian-sms" />
+        <item itemvalue="RSpec.WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" />
         <item itemvalue="RSpec.WechatTemplateMessage templates should get all templates successfully: yunpian-sms" />
+        <item itemvalue="RSpec.WechatTemplateMessage: yunpian-sms" />
         <item itemvalue="RSpec.WechatTemplateMessage templates: yunpian-sms" />
-        <item itemvalue="RSpec.WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" />
-        <item itemvalue="RSpec.YunPianSMS messages should batch send messages successfully: yunpian-sms" />
-        <item itemvalue="RSpec.YunPianSMS messages should send single message with template 2 successfully: yunpian-sms" />
       </list>
     </recent_temporary>
   </component>
@@ -490,44 +502,45 @@
       <workItem from="1554788733953" duration="1744000" />
       <workItem from="1559118971081" duration="17340000" />
       <workItem from="1559286989758" duration="688000" />
-      <workItem from="1560255176813" duration="3573000" />
+      <workItem from="1560255176813" duration="4562000" />
+      <workItem from="1560406087331" duration="6086000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian-sms - 2019.06.11 at 20h 35m 12s.xml">
-      <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian-sms - 2019.06.13 at 19h 55m 00s.xml">
+      <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian-sms - 2019.06.11 at 20h 36m 01s.xml">
-      <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian-sms - 2019.06.13 at 19h 55m 23s.xml">
+      <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian-sms - 2019.06.11 at 20h 37m 06s.xml">
-      <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian-sms - 2019.06.13 at 19h 56m 27s.xml">
+      <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian-sms - 2019.06.11 at 20h 37m 39s.xml">
-      <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian-sms - 2019.06.13 at 20h 09m 56s.xml">
+      <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian-sms - 2019.06.11 at 20h 37m 58s.xml">
-      <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian-sms - 2019.06.13 at 20h 10m 23s.xml">
+      <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian-sms - 2019.06.11 at 20h 38m 28s.xml">
-      <configuration name="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian-sms - 2019.06.13 at 20h 11m 08s.xml">
+      <configuration name="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_all_templates_successfully__yunpian-sms - 2019.06.11 at 20h 38m 40s.xml">
-      <configuration name="WechatTemplateMessage templates should get all templates successfully: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_send_template_message_successfuly__yunpian-sms - 2019.06.13 at 20h 13m 17s.xml">
+      <configuration name="WechatTemplateMessage messages should send template message successfuly: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates__yunpian-sms - 2019.06.11 at 20h 39m 17s.xml">
-      <configuration name="WechatTemplateMessage templates: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_send_template_message_successfuly__yunpian-sms - 2019.06.13 at 20h 14m 57s.xml">
+      <configuration name="WechatTemplateMessage messages should send template message successfuly: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_all_templates_successfully__yunpian-sms - 2019.06.11 at 20h 47m 23s.xml">
-      <configuration name="WechatTemplateMessage templates should get all templates successfully: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_send_template_message_successfuly__yunpian-sms - 2019.06.13 at 20h 15m 34s.xml">
+      <configuration name="WechatTemplateMessage messages should send template message successfuly: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
-    <history-entry file="WechatTemplateMessage_templates_should_get_all_templates_successfully__yunpian-sms - 2019.06.11 at 20h 49m 06s.xml">
-      <configuration name="WechatTemplateMessage templates should get all templates successfully: yunpian-sms" configurationId="RSpecRunConfigurationType" />
+    <history-entry file="WechatTemplateMessage_messages_should_send_template_message_successfuly__yunpian-sms - 2019.06.13 at 20h 17m 54s.xml">
+      <configuration name="WechatTemplateMessage messages should send template message successfuly: yunpian-sms" configurationId="RSpecRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28609000" />
+    <option name="totallyTimeSpent" value="35684000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -539,10 +552,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-483" y="-1080" width="2560" height="1080" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15111643" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23648648" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -556,7 +569,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49960127" weight="0.32996973" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.32896066" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32996973" />
-      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.50119615" side_tool="true" weight="0.32996973" />
+      <window_info anchor="bottom" id="Run" order="11" sideWeight="0.50119615" side_tool="true" weight="0.62851197" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -589,17 +602,6 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/spec/wechat_template_message_spec.rb</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage_templates__yunpian_sms.rcov" NAME="WechatTemplateMessage templates: yunpian-sms Coverage Results" MODIFIED="1560256755295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
     <SUITE FILE_PATH="coverage/yunpian_sms@YunPianSMS_messages_should_send_single_message_with_template_2_successfully__yunpian_sms.rcov" NAME="YunPianSMS messages should send single message with template 2 successfully: yunpian-sms Coverage Results" MODIFIED="1559208458312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
@@ -607,9 +609,12 @@
     <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage_templates_should_get_error_response_when_access_token_is_invalid_missing__yunpian_sms.rcov" NAME="WechatTemplateMessage templates should get error response when access token is invalid missing: yunpian-sms Coverage Results" MODIFIED="1560256707596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
     <SUITE FILE_PATH="coverage/yunpian_sms@YunPianSMS_messages_should_send_single_message_successfully__yunpian_sms.rcov" NAME="YunPianSMS messages should send single message successfully: yunpian-sms Coverage Results" MODIFIED="1559201500843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
     <SUITE FILE_PATH="coverage/yunpian_sms@YunPianSMS_templates_should_get_all_templates_successfully__yunpian_sms.rcov" NAME="YunPianSMS templates should get all templates successfully: yunpian-sms Coverage Results" MODIFIED="1559121987538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
+    <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage__yunpian_sms.rcov" NAME="WechatTemplateMessage: yunpian-sms Coverage Results" MODIFIED="1560424505250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
     <SUITE FILE_PATH="coverage/yunpian_sms@YunPianSMS__yunpian_sms.rcov" NAME="YunPianSMS: yunpian-sms Coverage Results" MODIFIED="1559134003997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
+    <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage_messages_should_send_template_message_successfuly__yunpian_sms.rcov" NAME="WechatTemplateMessage messages should send template message successfuly: yunpian-sms Coverage Results" MODIFIED="1560428272603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
     <SUITE FILE_PATH="coverage/yunpian_sms@YunPianSMS_messages__yunpian_sms.rcov" NAME="YunPianSMS messages: yunpian-sms Coverage Results" MODIFIED="1559202563716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
-    <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage_templates_should_get_all_templates_successfully__yunpian_sms.rcov" NAME="WechatTemplateMessage templates should get all templates successfully: yunpian-sms Coverage Results" MODIFIED="1560257344969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
+    <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage_templates_should_get_all_templates_successfully__yunpian_sms.rcov" NAME="WechatTemplateMessage templates should get all templates successfully: yunpian-sms Coverage Results" MODIFIED="1560426232588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
+    <SUITE FILE_PATH="coverage/wechat_template_message@WechatTemplateMessage_messages_should_get_error_response_when_access_token_is_invalid__yunpian_sms.rcov" NAME="WechatTemplateMessage messages should get error response when access token is invalid: yunpian-sms Coverage Results" MODIFIED="1560427866636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="yunpian-sms" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/yunpian_sms/template.rb" />
@@ -627,45 +632,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/yunpian_sms/sender.rb" />
-    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/version.rb">
+    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/batch_result.rb" />
+    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat_template_message.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/fixtures/configuration.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret column="144" selection-start-column="144" selection-end-column="144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/template.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/template.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -676,37 +668,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/batch_result.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/sender.rb">
+    <entry file="file://$PROJECT_DIR$/spec/fixtures/configuration.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="66">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message.rb">
+    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/sender.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="209">
+          <caret line="34" column="3" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/wechat_template_message_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="156">
+          <caret line="54" column="6" selection-start-line="54" selection-start-column="6" selection-end-line="82" selection-end-column="121" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="308">
-            <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <first_editor relative-caret-position="609">
+            <caret line="73" column="4" lean-forward="true" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat_template_message.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/wechat_template_message/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

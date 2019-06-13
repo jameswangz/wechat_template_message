@@ -49,6 +49,40 @@ else
   # raise error
 end
 
+# 发送模板消息
+url = 'http://xxx.com'
+miniprogram_data = {
+  appid: "xxxx",
+  "pagepath":"index?foo=bar"     
+}
+data = {
+  first: {
+      value: '您有一张车票 L2019002234324 距乘车时间小于 30 分钟， 线路: 横琴号 十号线',
+      color: '#173177'
+  },
+  keyword1: {
+      value: '2019-04-09 18:10',
+      color: '#173177'
+  },
+  keyword2: {
+      value: '横琴创意谷',
+      color: '#173177'
+  },
+  keyword3: {
+      value: '西江月',
+      color: '#173177'
+  },
+  keyword4: {
+      value: '粤C66666',
+      color: '#173177'
+  },
+  remark: {
+      value: '请提前到乘车站点候车以免耽误您的出行',
+      color: '#173177'
+  }
+}
+result = WechatTemplateMessage::Sender.template_send access_token, openid, template_id, url, miniprogram_data, data
+
 ~~~
 
 
